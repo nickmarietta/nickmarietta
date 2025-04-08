@@ -1,7 +1,6 @@
 # 💫 About Me:
 - 🎓 Studying Computer Science (3rd year)<be>
 - 💻 Exploring software development and some ML! <be>
-- 🌍 Currently learning Portuguese and Japanese
 
 
 ## 🌐 Socials:

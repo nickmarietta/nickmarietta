@@ -1,5 +1,5 @@
-# 💫 About Me:
-- 🎓 Studying Computer Science (3rd year)<be>
+# About Me:
+- 🎓 Studying Computer Science (4th year)<be>
 - 💻 Exploring software development and some ML! <be>
 
 

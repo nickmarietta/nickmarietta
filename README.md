@@ -1,6 +1,7 @@
 # About Me:
-- 🎓 Studying Computer Science (4th year)<be>
-- 💻 Exploring software development and some ML! <be>
+- 🎓 Recent CSUF Graduate<be>
+- Currently looking for opportunities!<be>
+- 💻 Exploring software development and integrating AI/ML! <be>
 
 
 ## 🌐 Socials:
